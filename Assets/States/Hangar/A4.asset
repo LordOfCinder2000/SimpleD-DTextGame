@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A4
+  m_EditorClassIdentifier: 
+  storyTitle: "Tay sai c\u1EE7a Sauron"
+  storyImage: {fileID: 21300000, guid: e58d4db4e2fe3e540956b80a066e6cef, type: 3}
+  storyText: "Tr\u1EADn chi\u1EBFn b\u1EAFt \u0111\u1EA7u!\r\n\r\nB\u1EA1n nh\u1EA5n
+    x\xFAc x\u1EAFc \u0111\u1EC3 t\u1EA5n c\xF4ng con qu\xE1i v\u1EADt!\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 59b045af739364b44a10c6efa4c306c2, type: 2}
+  - {fileID: 11400000, guid: 213a86f48abd7774d8c6a757c5a77e43, type: 2}

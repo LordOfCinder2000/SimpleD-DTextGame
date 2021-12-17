@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49b76084a0a31047bab1ba42c0b8670, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyTitle: "Khu r\u1EEBng k\u1EF3 l\u1EA1"
+  storyImage: {fileID: 21300000, guid: 9e3472fdfed6aae40833f6fb83839657, type: 3}
+  storyText: "Trong khu r\u1EEBng m\u1ECDi th\u1EE9 nh\u01B0 c\xF3 s\u1EF1 s\u1ED1ng,
+    b\u1EA1n c\u1EA3m gi\xE1c \u0111ang b\u1ECB theo d\xF5i tr\xEAn t\u1EEBng b\u01B0\u1EDBc
+    \u0111i.\r\n\r\nB\u1EA1n \u0111\xE3 \u0111i r\u1EA5t s\xE2u v\xE0o khu r\u1EEBng,
+    kh\xF4ng c\xF2n \u0111\u01B0\u1EDDng lui.\r\n\r\nPh\xEDa tr\u01B0\u1EDBc l\xE0
+    t\u1ED5 c\u1EE7a con r\u1ED3ng.\r\n\r\nB\u1EA1n l\xE0m g\xEC \u0111\u1EADy ?\r\n\r\n1.
+    T\u1EA5n c\xF4ng v\u1EDBi v\u0169 kh\xED b\u1EA1n mang theo.\r\n2. Tr\u1ED1n
+    trong b\u1EE5i d\u1EADm v\xE0 \u0111i qua t\u1ED5 r\u1ED3ng."
+  nextStates:
+  - {fileID: 11400000, guid: 92c0fb50e9fb3fa459ec97f01f32aefb, type: 2}
+  - {fileID: 11400000, guid: b9b86803e989cfa49a569fd4cfe79cbf, type: 2}
